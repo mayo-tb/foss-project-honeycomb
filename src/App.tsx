@@ -23,7 +23,7 @@ function App() {
       <Router>
         <Routes>
 
-          {/* Login / root */}
+          {/* Login */}
           <Route
             path="/"
             element={
